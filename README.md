@@ -92,13 +92,13 @@ The complete internship report is included in the `report/` directory.
 
 ## Internship Certificate
 
-The internship completion certificate is included in the `certificate/` directory for documentation and verification
----
+The internship completion certificate is included in the `certificate/` directory for documentation and verification.
+
 
 ## Repository
 
 This is a private repository created to maintain and document my industrial internship work at HPCL Visakh Refinery.
----
+
 
 ## Author
 
